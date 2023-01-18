@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292064344512",
+    "project_id": "banklist-14058",
+    "storage_bucket": "banklist-14058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292064344512:android:05d308dc7b50dc12e1b025",
+        "android_client_info": {
+          "package_name": "com.aptuz.banklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292064344512-tjv53susv9svfs2astnnjpvqs97dofn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHtI4sQj8_h6IQyPuYIYvlmGoHoJ3onFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292064344512-tjv53susv9svfs2astnnjpvqs97dofn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
